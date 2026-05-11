@@ -23,7 +23,7 @@
     "autoprefixer": "^7.1.2",
     "babel-enhanced-node": "^0.1.8",
     "babel-eslint": "^8.0.3",
-    "babel-plugin-root-import": "^5.1.0",
+    "babel-plugin-root-import": "^6.0.0",
     "eslint": "^4.12.0",
     "eslint-config-standard": "^10.2.1",
     "eslint-friendly-formatter": "^3.0.0",
